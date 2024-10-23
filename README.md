@@ -35,8 +35,8 @@ The `LoginFormCubit` manages the state of the login form. It uses the following 
 ## Demo Credentials
 
 Use the following credentials to successfully log in:
-### * Username: `user`
-### * Password: `password`
+* ### Username: `user`
+* ### Password: `password`
 
 Entering any other credentials will show an error message.
 
